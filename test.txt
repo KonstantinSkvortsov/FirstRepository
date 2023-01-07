@@ -3,3 +3,4 @@ test
 3
 Good bye!
 1
+add file 1 test
